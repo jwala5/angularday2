@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Cas"
+    }
+  },
+  "defaultProject": "Cas",
+  "cli": {
+    "analytics": "5578d822-97ad-4367-891c-dec97fd52b1d"
+  }
 }
